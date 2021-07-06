@@ -1,5 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on an Uno game made in Python
-- 🌱 I’m currently learning Python and SQL
+- 🔭 I’m currently learning HTML & CSS
+- 🌱 I already know Python and SQL Server 2017
 - 📫 Want to send me a message? You can reach me on my Email (felipeflohrlol@gmail.com) or on my Twitter (@__2flps)
