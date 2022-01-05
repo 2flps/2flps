@@ -2,7 +2,7 @@
 
 - :book: Currently studying JavaScript
 - :guitar::metal: Metalhead
-- Languages: :brazil: / :portugal: Brazilian Portuguese & :us: / :uk: English
+- Languages: :brazil: Brazilian Portuguese & :us:/:uk: English
 
 ---
 [![Felipe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeflohr&langs_count=8&theme=dark)](https://github.com/felipeflohr/github-readme-stats)
