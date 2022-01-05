@@ -6,14 +6,12 @@
 ---
 [![Felipe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeflohr&langs_count=8&theme=dark)](https://github.com/felipeflohr/github-readme-stats)
 
----
 ## You can reach me on:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeflohrlol@gmail.com)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](http://steamcommunity.com/profiles/76561198093577853)
 
 
----
 <h2 align='center'> My skills: </h2>
 
 <div align="center">
