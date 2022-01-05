@@ -9,8 +9,7 @@
 ## You can reach me on:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeflohrlol@gmail.com)
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](http://steamcommunity.com/profiles/76561198093577853)
-
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](http://steamcommunity.com/profiles/76561198093577853) (just in case wou want to play something with me :wink:)
 
 <h2 align='center'> My skills: </h2>
 
