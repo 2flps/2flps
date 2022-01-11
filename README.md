@@ -1,6 +1,6 @@
 <h1 align='center'>Hello, I'm Felipe!</h1>
 
-- :book: Currently learning JavaScript
+- :book: Currently learning JavaScript, HTML & CSS
 - :guitar::metal: Metalhead
 - Languages: :brazil: Brazilian Portuguese & :us:/:uk: English
 
