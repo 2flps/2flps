@@ -10,7 +10,7 @@
 ## You can reach me on:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeflohrlol@gmail.com)
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/255153484565970944)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/255153484565970944)
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](http://steamcommunity.com/profiles/76561198093577853) (just in case you want to play something with me :wink:)
 
