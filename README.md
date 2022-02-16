@@ -7,6 +7,10 @@
 ---
 [![Felipe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeflohr&langs_count=10&theme=dark&layout=compact)](https://github.com/felipeflohr/github-readme-stats)
 
+## Courses I'm doing/have done:
+- [Java Development using JDBC, JPA and Spring Boot.](https://github.com/FelipeFlohr/curso-cod3r-java) *Finished*.
+- [Web Development including Angular, React, Vue, Bootstrap and more.](https://github.com/FelipeFlohr/curso-cod3r-webmoderno) *Currently doing*.
+
 ## You can reach me on:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeflohrlol@gmail.com)
 
