@@ -18,7 +18,7 @@
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](http://steamcommunity.com/profiles/76561198093577853) (just in case you want to play something with me :wink:)
 
-<h2 align="center"> My skills: </h2>
+<h2 align="center"> My skills & tools: </h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
