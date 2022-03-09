@@ -1,6 +1,6 @@
 <h1 align='center'>Hello, I'm Felipe!</h1>
 
-- :book: Currently learning Gulp
+- :book: Currently learning Bootstrap & React
 - :guitar::metal: Metalhead
 - Languages: :brazil: Brazilian Portuguese & :us:/:uk: English
 
