@@ -8,7 +8,7 @@
 
 ## Courses I'm doing/have done:
 - [Java Development using JDBC, JPA and Spring Boot.](https://github.com/FelipeFlohr/curso-cod3r-java) *Finished*.
-- [Web Development including Angular, React, Vue, Bootstrap and more.](https://github.com/FelipeFlohr/curso-cod3r-webmoderno) *Currently doing*.
+- [Web Development including Angular, React, Vue, Bootstrap and more.](https://github.com/FelipeFlohr/curso-cod3r-webmoderno) *Finished*.
 
 ## You can reach me on:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeflohrlol@gmail.com)
