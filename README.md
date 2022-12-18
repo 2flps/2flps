@@ -1,12 +1,13 @@
 <h1 align='center'>Hello, I'm Felipe!</h1>
 
-- :book: Currently learning React
+- :book: Currently learning Flutter
 - Languages: :brazil: Brazilian Portuguese & :us:/:uk: English
 
 ---
 [![Felipe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeflohr&langs_count=10&theme=dark&layout=compact)](https://github.com/felipeflohr/github-readme-stats)
 
 ## Courses I'm doing/have done:
+- [Flutter & Dart Development including Responsive Design, Native Device Features, Animations and Firebase integration.](https://github.com/FelipeFlohr/curso-academind-flutter) *Currently doing*.
 - [Java Development using JDBC, JPA and Spring Boot.](https://github.com/FelipeFlohr/curso-cod3r-java) *Finished*.
 - [Web Development including Angular, React, Vue, Bootstrap and more.](https://github.com/FelipeFlohr/curso-cod3r-webmoderno) *Finished*.
 
